@@ -1,8 +1,11 @@
 ### Hi, i'm Gustavo Enrique 👋
 
+##
+
 - 😍 Tech lover
 - 📝 Graduating in computer science
 - 📲 Studying mobile development
+
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="Rick-XCode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> 
