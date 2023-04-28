@@ -1,21 +1,15 @@
-### Hi, i'm Gustavo Enrique 👋
+## Olá, me chamo Gustavo Enrique 👋
+Sou estudante de Ciência da Computação, apaixonado por tecnologia e com foco em desenvolvimento mobile.
 
-##
+### Linguagens e ferramentas
+Aqui estão algumas das linguagens e ferramentas que estou estudando no momento:
 
-- 😍 Tech lover
-- 📝 Graduating in computer science
-- 📲 Studying mobile development
+- ![Android](https://img.icons8.com/color/48/000000/android-os.png) Android
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
+- ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png) Kotlin
+- ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) Flutter
 
-##
+Sinta-se livre para entrar em contato comigo para colaborar ou trocar ideias! Obrigado pela visita! 😊
 
-<div style="display: inline_block"><br>  
-  <img align="center" alt="Rick-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-  <img align="center" alt="Rick-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> 
-  <img align="center" alt="Rick-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Rick-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Rick-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" alt="Rick-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-        
-</div>
 
 
